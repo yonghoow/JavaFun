@@ -1,4 +1,4 @@
-package src;
+//package src;
 
 public class DIsplayNonASCIICharacters {
     public static void main(String[] args) {
